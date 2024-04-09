@@ -6,4 +6,4 @@ Ejercicios de la materia "Sintaxis y Semántica de los Lenguajes" de Luciano Tap
 
 ### Guia
 
-- ***Ejercicio 1:*** 00-CHelloWorld
+- ***TP 0:*** 00-CHelloWorld
